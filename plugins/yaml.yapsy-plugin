@@ -1,0 +1,9 @@
+[Core]
+Name = Yaml validator
+Module = yamlmgr
+
+[Documentation]
+Author = Miguel Angel Garcia
+Version = 0.1
+Website = http://magmax.org
+Description = Validates a YAML file
